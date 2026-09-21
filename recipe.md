@@ -4,6 +4,7 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 
 ## Cake Ingredients
 
+- 10 scoops of Nutella
 - 2 1/2 cups all-purpose flour
 - 2 cups granulated sugar
 - 2 teaspoons baking powder
